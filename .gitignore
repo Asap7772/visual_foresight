@@ -1,0 +1,16 @@
+*.pyc
+.vscode/
+*.mp4
+*.pkl
+*.gif
+.git_old
+.idea
+*.data
+*.index
+*.out
+*.meta
+*.egg-info/
+.email_cred
+*_log.txt
+__pycache__/*
+outputs/
